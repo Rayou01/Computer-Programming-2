@@ -84,35 +84,3 @@ def poem(dictionnary, lines, words):
   return out
 
 print(poem(B, 2, 3))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
